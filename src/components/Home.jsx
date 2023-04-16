@@ -19,19 +19,9 @@ export default function Home() {
                 <ul className="card-item">
                   <li>Online only</li>
                   <li>Go Pro</li>
-                  <li>Check for more details</li>
+                  <li>12 Hr battery backup</li>
                   <li>16MP sensor</li>
-                  <li>
-{/*
-                    <div className="dropdown">
-                      <span>Select an option</span>
-                      <div className="dropdown-content">
-                        <p>Pickup</p>
-                        <p>Delivery</p>
-                      </div>
-                    </div>
-*/}
-                  </li>
+             
                 </ul>
               </div>
               <Link
@@ -63,16 +53,7 @@ export default function Home() {
                   <li>Headphone by harman kardon</li>
                   <li>Wirelsess connection</li>
                   <li>20 hours battery backup</li>
-                  <li>
-                    {" "}
-                    {/*<div className="dropdown">
-                      <span>Select an option</span>
-                      <div className="dropdown-content">
-                        <p>Pick-Up</p>
-                        <p>Delivery</p>
-                      </div>
-                    </div>*/}
-                  </li>
+                  
                 </ul>
                 <Link
                   state={{
@@ -141,16 +122,7 @@ export default function Home() {
                   <li>64 GB storage</li>
                   <li>includes 3 months apple care</li>
                   <li>EMI available</li>
-                  <li>
-                    {" "}
-                    {/*<div className="dropdown">
-                      <span>Select an option</span>
-                      <div className="dropdown-content">
-                        <p>Pick-Up</p>
-                        <p>Delivery</p>
-                      </div>
-                    </div>*/}
-                  </li>
+              
                 </ul>
               </div>
               <Link
@@ -180,16 +152,7 @@ export default function Home() {
                   <li>128 GB storage</li>
                   <li>With 15 Watt charger</li>
 
-                  <li>
-                    {" "}
-                    {/*<div className="dropdown">
-                      <span>Select an option</span>
-                      <div className="dropdown-content">
-                        <p>Pick-Up</p>
-                        <p>Delivery</p>
-                      </div>
-                    </div>*/}
-                  </li>
+               
                 </ul>
                 <Link
                   state={{
@@ -222,16 +185,7 @@ export default function Home() {
                   <li>Series 7</li>
                   <li>45mm</li>
                   <li>12 hours battery backup</li>
-                  <li>
-                    {" "}
-                    {/*<div className="dropdown">
-                      <span>Select an option</span>
-                      <div className="dropdown-content">
-                        <p>Pick-Up</p>
-                        <p>Delivery</p>
-                      </div>
-                    </div>*/}
-                  </li>
+                 
                 </ul>
                 <Link
                   state={{
